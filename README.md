@@ -2,7 +2,7 @@
 
 ## 📌 Problem Statement
 
-Social media platforms like Twitter generate massive amounts of text data daily. Understanding the **sentiment** behind tweets can help businesses, governments, and organizations track public opinion, brand perception, and emerging issues.
+Social media platforms like Twitter generate massive amounts of text data on a daily basis. Understanding the **sentiment** behind tweets can help businesses, governments, and organizations track public opinion, brand perception, and emerging issues.
 
 This project uses **Natural Language Processing (NLP)** and **Machine Learning** techniques to classify tweets into four sentiment categories:
 
@@ -100,7 +100,7 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 3. Run the notebook:
 
    ```bash
-   jupyter notebook PRODGIGY_DS_04.ipynb
+   Jupyter Notebook PRODGIGY_DS_04.ipynb
    ```
 
 ---
@@ -114,17 +114,13 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 
 ---
 
-## 👩‍💻 Author
+## 📬 Contact
 
-**Ruksana Shaikh**
-
-* 🌐 [GitHub](https://github.com/Ruksana-shaikh)
-* 💼 [LinkedIn](#) *(add your link)*
-
+* **Author:** Ruksana Shaikh
+* **Linkedin** (https://www.linkedin.com/in/ruksana-ks)
+* **GitHub:** (https://github.com/Ruksana-shaikh)
+* **Email:** (mail to: shaikhruksana.k@gmail.com)
 ---
 
 ✨ *If you found this project useful, please ⭐ the repo!*
 
----
-
-Would you like me to also generate a **`requirements.txt` file** for this repo so others can run it without errors?
