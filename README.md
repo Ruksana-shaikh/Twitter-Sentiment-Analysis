@@ -63,6 +63,10 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 
 ## 📊 Results
 
+<img width="571" height="508" alt="image" src="https://github.com/user-attachments/assets/2d960a9c-7742-48fd-94fc-c73f0060a351" />
+<img width="649" height="547" alt="image" src="https://github.com/user-attachments/assets/02d03796-6fc7-41e2-97ce-2651f76dd079" />
+
+
 * **Accuracy:** ~100% on validation set *(Note: This may be due to data leakage/vectorization issue, but results demonstrate strong model performance)*
 * **Best Performing Model:** Multinomial Naive Bayes
 * **Key Insights:**
